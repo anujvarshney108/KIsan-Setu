@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466717428469",
+    "project_id": "kisan-setu-9f475",
+    "storage_bucket": "kisan-setu-9f475.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466717428469:android:2a8b4b93e48ef802cc93bc",
+        "android_client_info": {
+          "package_name": "com.example.kisan_setu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lRxaxIRmlmfNvARtP-7_E1JaaBI4S0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
